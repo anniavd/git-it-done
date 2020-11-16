@@ -25,21 +25,23 @@ GIT IT DONE is a web application that will search GitHub for open source project
 
 
 # Usage 
-  
- ![screenshot create task](/assets/images/.jpg)
+  - When the application is running the user need provide a github username and click to the button **Get User** or do a search for topics as **HTML,CSS** or **JAVASCRIT**.
+
+- The user can select a project with issue for see the code onthe github repository.
+
+When the user do a search **SEARCH BY USER**.The app show a app list for that github username.
+
+ ![list of projects](/assets/images/list-search.jpg)
 
 
- Image the list of task with the example when  a task is near to the limited date.
+When a user do a search use  the **"SEARCH BY TOPIC"**.
 
- ![screenshot for home page](/assets/images/task.jpg)
+ ![screenshot for home page](/assets/images/search-topic.jpg)
 
-When a user is going to edit a task. The user can edit the date and the description by clicking on one of these two.
+When a user seleted a project with issue is moved to other page for see all the issues.
  
-  ![screenshot create task](/assets/images/)
+  ![screenshot create task](/assets/images/issue.jpg)
 
-- When the user is going to delete task has two ways,can delete all task doing click on the button **Delete All Tasks** or select one task, drag and drop how show in the follow image.
-
-  ![screenshot create task](/assets/images/)
 
 
 # License
@@ -48,7 +50,7 @@ NONE
 
 # Technologies 
  - HTML5
- - css3
+ - CSS3
  - NODE
  - API resful
 - JAVASCRIPT
