@@ -50,8 +50,7 @@ NONE
 
 # Technologies 
  - HTML5
- - CSS3
- - NODE
+ - CSS3 
  - API resful
 - JAVASCRIPT
 
